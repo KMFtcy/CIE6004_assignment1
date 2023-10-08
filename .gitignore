@@ -1,2 +1,5 @@
 garbage_classification.zip
 garbage_classification/
+trained_model.pth
+.ipynb_checkpoints/
+runs/
