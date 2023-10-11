@@ -3,3 +3,4 @@ garbage_classification/
 trained_model.pth
 .ipynb_checkpoints/
 runs/
+*.pth
