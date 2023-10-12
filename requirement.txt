@@ -6,3 +6,6 @@ torchaudio
 einops
 tqdm
 matplotlib
+torchsampler
+scikit-learn
+seaborn
